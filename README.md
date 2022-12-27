@@ -29,7 +29,7 @@ La aplicación cuenta con la separación de la lógica manejando la siguiente es
 2. Clonar repositorio dentro del directorio `C:/xampp/htdocs/` _(Para desarrollo)_
 
 ```
-    git clone https://github.com/camiloosorios/crud-php.git
+    git clone https://github.com/camiloosorios/crud-prueba-php.git
 ```
 
 3. Instalar e inicar [_Postman_](https://www.postman.com/downloads/).
